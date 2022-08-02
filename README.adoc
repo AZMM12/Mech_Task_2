@@ -1,0 +1,36 @@
+= Project: {Mech_Task_2}
+
+=== Author: azmm12.
+=== Email: {Abdulazizmmutiri@gmail.com} .
+=== Date: 1/08/2022 .
+=== Revision: version#1 .
+=== License: Public Domain .
+
+== Description of project:
+Sketching 3D Suspension system for robot feet wheels using given dimensions in "Dimensions_pic.png" .
+
+== Steps:
+1. Open Cinema 4D .
+2. Start Sketching and be aware of the Dimensions given in "Dimensions_pic.png" .
+3. Save Sketch and take 3d screenshots and 2d screenshots .
+
+
+=== Folder structure
+
+....
+ Mech_Task_2
+  └── README.adoc      => this file
+  └── Suspension_pic1.png      => 3D picture of the sketch
+  └── Suspension_pic2.png      => Different Views of the sketch
+  └── Dimension_pic.png      =>  Dimensions of the Motor or robotic wheel .
+  └── Suspension_System.c4d      => Cinema 4D File
+....
+
+=== Contributing
+To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
+
