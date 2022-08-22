@@ -1,4 +1,4 @@
-= Project: {Mech_Task_2}
+= Project: {Robot-Suspension-System-Design}
 
 === Author: azmm12.
 === Email: {Abdulazizmmutiri@gmail.com} .
@@ -25,12 +25,3 @@ Sketching 3D Suspension system for robot feet wheels using given dimensions in "
   └── Dimension_pic.png      =>  Dimensions of the Motor or robotic wheel .
   └── Suspension_System.c4d      => Cinema 4D File
 ....
-
-=== Contributing
-To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
-
-=== Help
-This document is written in the _AsciiDoc_ format, a markup language to describe documents.
-If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
-or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
-
